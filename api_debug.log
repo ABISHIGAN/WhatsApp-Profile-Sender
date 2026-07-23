@@ -1,0 +1,103 @@
+2026-06-25 11:55:29 - Already authenticated
+2026-06-25 11:55:31 - Send command output: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (node:internal/modules/cjs/loader:1680:20)
+    at Object..js (node:internal/modules/cjs/loader:1839:1
+2026-06-25 11:55:31 - Send photos error: Bot failed: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (
+2026-06-25 11:55:39 - Already authenticated
+2026-06-25 11:55:40 - Send command output: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (node:internal/modules/cjs/loader:1680:20)
+    at Object..js (node:internal/modules/cjs/loader:1839:1
+2026-06-25 11:55:40 - Send photos error: Bot failed: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (
+2026-06-25 11:55:41 - Already authenticated
+2026-06-25 11:55:42 - Send command output: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (node:internal/modules/cjs/loader:1680:20)
+    at Object..js (node:internal/modules/cjs/loader:1839:1
+2026-06-25 11:55:42 - Send photos error: Bot failed: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (
+2026-06-25 11:55:42 - Already authenticated
+2026-06-25 11:55:43 - Send command output: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (node:internal/modules/cjs/loader:1680:20)
+    at Object..js (node:internal/modules/cjs/loader:1839:1
+2026-06-25 11:55:43 - Send photos error: Bot failed: C:\xampp\htdocs\whatsapp profile\whatsapp_bot.js:178
+            );
+            ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+    at Module._compile (
+2026-06-25 11:55:48 - Session reset complete
+2026-06-25 11:55:56 - Started bot for QR generation
+2026-06-25 12:12:32 - Already authenticated
+2026-06-25 12:12:35 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:12:35 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:12:42 - Session reset complete
+2026-06-25 12:12:54 - Started bot for QR generation
+2026-06-25 12:13:12 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:13:12 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:14:27 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄ ▀  ▄▀█▀██ █▄   ▄█▀▀▄▄
+2026-06-25 12:14:27 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:17:21 - Already authenticated
+2026-06-25 12:19:04 - Already authenticated
+2026-06-25 12:19:06 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:19:06 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:19:09 - Send command output: 📱 Scan this QR code with your WhatsApp:
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▄█ ███▀█▀█▄█ ▄▄ ▄██�
+2026-06-25 12:19:09 - Send photos error: Bot failed: 📱 Scan this QR code with your WhatsApp:
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2026-06-25 12:19:10 - Session reset complete
+2026-06-25 12:19:27 - Session reset complete
+2026-06-25 12:24:20 - Already authenticated
+2026-06-25 12:24:25 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:24:25 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:24:28 - Already authenticated
+2026-06-25 12:24:31 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:24:31 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:24:37 - Already authenticated
+2026-06-25 12:24:39 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:24:39 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:24:43 - Already authenticated
+2026-06-25 12:24:46 - Send command output: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:24:46 - Send photos error: Bot failed: ❌ Failed to initialize client: The browser is already running for C:\xampp\htdocs\whatsapp profile\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+2026-06-25 12:25:00 - Session reset complete
